@@ -34,7 +34,7 @@ I love working with open source telecom stuff, bending routers in ways they shou
 [![Postgres](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/pg_logo_64.png)](https://postgresql.org)
 [![sqlc](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/sqlc_logo_64.png)](https://sqlc.dev)
 [![Redis](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/redis_logo_64.png)](https://redis.io)
-[![Faktory](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/redis_logo_64.png)](https://contribsys.com/faktory)
+[![Faktory](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/faktory_logo_64.png)](https://contribsys.com/faktory)
 [![Teleport](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/teleport_logo_64.png)](https://goteleport.com)
 [![Northflank](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/northflank_logo_64.png)](https://northflank.com)
 [![Mikrotik](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/mikrotik_logo_64.png)](https://mikrotik.com)
