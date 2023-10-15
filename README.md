@@ -12,7 +12,7 @@ I love working with open source telecom stuff, bending routers in ways they shou
 
 ### What I'm up to: 
 
-+ Currently embedded with a US-based VoIP Company, building a residential telco network & property management system.
++ Currently embedded with a US VoIP Company, building a residential telco network & property management system.
 + Broadening my experience with embedded dev, tinkering with building an FXS gateway. (Pet project, not a paying thing)
 + Planning a project to hopefully bolster interest in F/OSS Telecom.
 
