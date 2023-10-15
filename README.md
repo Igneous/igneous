@@ -1,4 +1,5 @@
-## [![Typing SVG](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/greet_typing.svg)](https://github.com/igneous)
+[![Profile Pic BW](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/me.png)]()
+[![Typing SVG](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/greet_typing.svg)]()
 
 ### About me:
 
