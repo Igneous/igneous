@@ -20,24 +20,19 @@ I love working with open source telecom stuff, bending routers in ways they shou
 
 [![Asterisk](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/asterisk_logo_64.png)](https://asterisk.org)
 [![FreeSwitch](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/freeswitch_logo_64.png)](https://signalwire.com/freeswitch)
-[![openSIPS](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/opensips_logo_64.png)](https://opensips.org)
 [![Pion](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/pion_logo_64.png)](https://pion.ly)
 [![Signalwire](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/signalwire_logo_64.png)](https://signalwire.com)
 [![RTPEngine](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/sipwise_rtpengine_logo_64.png)](https://github.com/sipwise/rtpengine)
-
+[![openSIPS](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/opensips_logo_64.png)](https://opensips.org)
 [![Alpine Linux](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/alpine_logo_64.png)](https://www.alpinelinux.org)
 [![Debian Linux](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/debian_logo_64.png)](https://debian.org)
-
 [![Ansible](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/ansible_logo_64.png)](https://docs.ansible.com)
 [![OpenTofu](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/opentofu_logo_64.png)](https://opentofu.org)
-
 [![Golang](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/golang_logo_64.png)](https://go.dev)
 [![Ruby](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/header-ruby-logo.png)](https://ruby-lang.org)
 [![Rails](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/rails_logo_64.png)](https://rubyonrails.org)
 [![Postgres](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/pg_logo_64.png)](https://postgresql.org)
 [![Redis](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/redis_logo_64.png)](https://redis.io)
-
 [![Teleport](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/teleport_logo_64.png)](https://goteleport.com)
 [![Northflank](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/northflank_logo_64.png)](https://northflank.com)
-
 [![Mikrotik](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/mikrotik_logo_64.png)](https://mikrotik.com)
