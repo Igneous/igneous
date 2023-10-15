@@ -31,7 +31,7 @@ I love working with open source telecom stuff, bending routers in ways they shou
 [![Ansible](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/ansible_logo_64.png)](https://docs.ansible.com)
 [![OpenTofu](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/opentofu_logo_64.png)](https://opentofu.org)
 
-[![Golang](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/favicon-gopher.svg)](https://go.dev)
+[![Golang](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/golang_logo_64.png)](https://go.dev)
 [![Ruby](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/header-ruby-logo.png)](https://ruby-lang.org)
 [![Rails](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/rails_logo_64.png)](https://rubyonrails.org)
 [![Postgres](https://raw.githubusercontent.com/Igneous/igneous/dev/assets/pg_logo_64.png)](https://postgresql.org)
