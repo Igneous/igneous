@@ -7,7 +7,7 @@ Hi, I'm Bucky Wolfe. I'm primarily a VoIP Engineer of 10+ yrs, with a smattering
 I love working with open source telecom stuff, bending routers in ways they shouldn't be bent, and general linux tomfoolery.
 
 - 👔 I help small ISPs / ITSPs find their niche and bootstrap their infrastructure.
-- 🌎 I live in Vinh, Vietnam 
+- 🌎 I live in Vinh, Vietnam (originally from Nashville, TN)
 - ⌚ Most Active Hours: 9pm - 11am @ `Asia/Ho_Chi_Minh` (9am - 11pm @ `America/Chicago`, sans DST).
 
 ### What I'm up to: 
